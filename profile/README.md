@@ -10,7 +10,7 @@ At **Truck n' Trailers**, our mission is to create an immersive and engaging tru
 
 Here are some of the key projects we're working on:
 
-- **Server Scripts**: Custom PAWN scripts that power the Truck n' Trailers server, including job systems, vehicle handling, and player interactions.
+- **Server Scripts**: Custom PAWN scripts that power the Truck n' Trailers server, including job systems, cargo handling, and player interactions.
 
 ## Getting Started
 
@@ -26,5 +26,5 @@ We welcome contributions from everyone, whether you're a seasoned developer or j
 
 - Reporting bugs or suggesting new features.
 - Improving our documentation or creating tutorials.
-- Submitting pull requests with tranlations.
+- Submitting pull requests with translations.
 - Spreading the word about our server and projects.
