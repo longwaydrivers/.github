@@ -1,6 +1,6 @@
 # Welcome to LWD Team 🚛
 
-Step into the world of **LongWayDrivers (LWD) Team**, where we're pushing the boundaries of Open Multiplayer (open.mp) gaming. Our passion drives us to create immersive experiences that transport players into richly detailed virtual worlds.
+Step into the world of **LongWayDrivers (LWD) Team**, where we're pushing the boundaries of open multiplayer (open.mp). Our passion drives us to create immersive experiences that transport players into richly detailed virtual worlds.
 
 ## About Us
 Gaming isn't just what we do – it's who we are. We're a team of developers dedicated to crafting unique, engaging experiences that keep players coming back for more. Each of our gamemodes is carefully designed and continuously refined to deliver unforgettable gameplay moments.
