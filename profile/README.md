@@ -1,30 +1,17 @@
-# Welcome to Truck n' Trailers 🚛
+# Welcome to LWD Team 🚛
 
-Welcome to **Truck n' Trailers**! We are the dedicated developers behind the SA-MP Truck n' Trailers server, a unique multiplayer gaming experience that brings the thrill of trucking and logistics to life in the Open Multiplayer (open.mp) world.
+Step into the world of **LongWayDrivers (LWD) Team**, where we're pushing the boundaries of Open Multiplayer (open.mp) gaming. Our passion drives us to create immersive experiences that transport players into richly detailed virtual worlds.
 
 ## About Us
-
-At **Truck n' Trailers**, our mission is to create an immersive and engaging trucking experience within the open.mp community. We develop and maintain the gamemode designed to enhance gameplay and deliver the best possible experience for our players. Our server combines the excitement of truck driving with the strategic elements of logistics and transportation management.
+Gaming isn't just what we do – it's who we are. We're a team of developers dedicated to crafting unique, engaging experiences that keep players coming back for more. Each of our gamemodes is carefully designed and continuously refined to deliver unforgettable gameplay moments.
 
 ## Our Projects
+We're proud to present our growing family of games:
 
-Here are some of the key projects we're working on:
+- **Truck n' Trailers (TNT)**: Our flagship trucking server where players master the art of logistics in a dynamic multiplayer environment.
 
-- **Server Scripts**: Custom PAWN scripts that power the Truck n' Trailers server, including job systems, cargo handling, and player interactions.
+- **LongWayDrivers (LWD)**: The next evolution in multiplayer trucking. Currently in development, LWD introduces groundbreaking mechanics and features that will redefine what players expect from a trucking experience.
 
-## Getting Started
+- **The Saboteur Wars (TSW)**: An ambitious project in its early development stages, TSW aims to bring strategic territory control and tactical gameplay to the open.mp world. Stay tuned as this exciting concept takes shape.
 
-Interested in contributing to Truck n' Trailers? Here's how you can get started:
-
-1. **Explore Our Projects**: Browse through our repositories to find something that catches your interest.
-2. **Check Out the Issues**: We tag issues that are beginner-friendly with `good first issue`.
-3. **Join Our Community**: Engage with us on Discord.
-
-## How to Contribute
-
-We welcome contributions from everyone, whether you're a seasoned developer or just starting out. You can contribute by:
-
-- Reporting bugs or suggesting new features.
-- Improving our documentation or creating tutorials.
-- Submitting pull requests with translations.
-- Spreading the word about our server and projects.
+Join us on this journey as we continue to expand and enhance these unique gaming experiences. The road ahead is long, and we're just getting started. 🎮
